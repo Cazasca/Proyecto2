@@ -1,0 +1,19 @@
+figure{
+  padding-top: 1rem;
+}
+
+.col{
+  height: 20rem;
+}
+
+.photos img{
+  width: 50%;
+}
+
+.hidden{
+  display: none;
+}
+
+.buton{
+  padding-bottom: 2rem;
+}

@@ -1,0 +1,46 @@
+body{
+  height: 100%;
+  background-color: rgba(255, 255, 255, 0);
+}
+
+.contact_form{
+  width: 460px;
+  height: auto;
+  margin: 80px auto;
+  border-radius: 10px;
+  padding-top: 30px;
+  padding-bottom: 20px;
+  background-color: Red;
+  padding-left: 30px;
+}
+
+
+textarea{
+  width: 405px;
+  height: 150px;
+  border-style: solid;
+  border-width: 1px;
+  border-color: black;
+  margin-top: 10px;
+  padding-left: 10px;
+  margin-bottom: 20px;
+  padding-top: 15px;
+}
+
+label{
+  display: block;
+  float: center;
+}
+
+button{
+  height: 45px;
+  padding-left: 5px;
+  padding-right: 5px;
+  margin-bottom: 20px;
+  margin-top: 10px;
+  background-color: lightpink ;
+  border-color: Red;
+  border-style: solid;
+  width: 420px;
+  cursor: pointer;
+}
